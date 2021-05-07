@@ -1,3 +1,5 @@
 # Machine_Learning_Artificial_Intelligence_Course
-The course full package
-The branch [pythoncodes] has some pretty projects in it.
+The course full package.
+
+
+pull the project and switch to branch pythoncodes.
